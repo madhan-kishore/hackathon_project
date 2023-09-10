@@ -1,0 +1,153 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+*{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-style: roboto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.one{
+    width: 180vh;
+    min-height: 100vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 90px;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+.two{
+    
+    
+   
+    padding-bottom: 50px;
+    width: 145vh;
+    height:80vh;
+    
+    
+
+    border-radius: 42px;
+background:white;
+box-shadow:  23px 23px 46px #8d8d8d,
+             -23px -23px 46px #ffffff;
+
+
+
+            
+
+
+}
+.botlapati{
+    color: rgb(61, 61, 236);
+}
+
+
+
+
+.navkishore{
+    background-color: white;
+    margin-top: 8px;
+    margin-left:35px;
+    margin-right:35px ;
+}
+.elements{
+    color: rgb(21, 223, 241);
+    font-size: 15px;
+    font-weight: bolder;
+}
+.portfolio-class{
+    color: rgba(14, 12, 12, 0.623);
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+i{
+    color: rgb(66, 63, 63);
+}
+
+
+.name{
+     color: rgb(243, 103, 9);
+    margin-left: -120px;
+    margin-top: -190px;
+    font-size: 40px;
+}
+.name-make{
+    margin-left: -120px;
+    margin-top: ;
+    font-size: 30px;
+}
+
+.text-pad{
+     width: 600px;
+}
+
+.profile-img{
+    width: 450px;
+    height: 450px;
+}
+.para{
+    margin-left: -65px;
+    margin-top: 40px;
+    font-size: 25px;
+    color: rgb(255, 166, 0);
+}
+.para-1{
+    margin-left: -180px;
+    margin-top: -15px;
+    font-size: 25px;
+    color: rgb(255, 166, 0);
+}
+.para-2{
+    margin-left: -100px;
+    margin-top: 90px;
+    font-size: 20px;
+    color: black;
+    margin-bottom:-120px ;
+    
+}
+
+
+.s{
+    font-size: 100px;
+
+}
+.line{
+    width: 135vh;
+    height: 3px;
+    
+    border: 2px solid gray;
+    margin-left: 40px;
+   box-shadow: #8d8d8d;
+
+    
+background: gray;
+}
+
+.button-kis{
+     padding: 5px 15px;
+     border: none;
+     border-radius: 10px;
+     background: whitesmoke;
+    
+box-shadow:  7px 7px 14px #a1a1a1,
+             -7px -7px 14px #ffffff;
+
+}
+
+.button-kis:hover{
+    padding: 10px 25px;
+     border: none;
+     border-radius: 15px;
+     background: whitesmoke;
+box-shadow:  7px 7px 14px #a1a1a1,
+             -7px -7px 14px #ffffff;
+}
+.del{
+    color: rgba(252, 105, 52, 0.856);
+}
+
